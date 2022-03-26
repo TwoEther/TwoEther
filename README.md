@@ -20,6 +20,6 @@
 <h2 align="left">👋Me👋</h2> 
 <p align="left">
   <img src="https://img.shields.io/badge/Blog-14CC80?style=flat-square&logo=Box&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google mail-4285F4?style=flat-square&logo=Google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
