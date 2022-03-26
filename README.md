@@ -16,3 +16,10 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
+
+<h2 align="left">👋Me👋</h2> 
+<p align="left">
+  <img src="https://img.shields.io/badge/Blog-0061D5?style=flat-square&logo=Box&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+</p>
