@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HyeonIl%20Lee&fontSize=90" />
 
 
-<h2 align="center">Tech Stack</h2> 
-<p align="center">
+<h2 align="left">Tech Stack</h2> 
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-00CC33?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-66CCFF?style=flat-square&logo=JavaScript&logoColor=white"/>
