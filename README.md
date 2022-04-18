@@ -25,5 +25,5 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Blog-14CC80?style=flat-square&logo=Box&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google mail-4285F4?style=flat-square&logo=Google&logoColor=white"/>
-  <a href="https://github.com/TwoEther><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p><br>
