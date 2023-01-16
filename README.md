@@ -45,6 +45,9 @@
 <p></p>
 
 <h2 align="left">🤦‍♀️Blog🤦‍♀️ : <a href="https://98coding.tistory.com">https://98coding.tistory.com/</a></h2> 
+<p align="left">
+  여러가지 학습내용을 적는 블로그입니다.
+</p><br>
 
 <h2 align="left">🤦‍♀️Portfolio🤦‍♀️ : <a href="http://www.98coding.com/">http://www.98coding.com/</a></h2> 
 
