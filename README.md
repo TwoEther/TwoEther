@@ -44,6 +44,8 @@
 </p><br>
 <p></p>
 
+<h2 align="left">🤦‍♀️Blog🤦‍♀️ : <a href="https://98coding.tistory.com">https://98coding.tistory.com/</a></h2> 
+
 <h2 align="left">🤦‍♀️Portfolio🤦‍♀️ : <a href="http://www.98coding.com/">http://www.98coding.com/</a></h2> 
 
 <img src="https://user-images.githubusercontent.com/101616106/210492852-f0af4068-3c0c-496e-8fc3-fa8a9e3375de.PNG">
