@@ -46,6 +46,5 @@
 </p><br>
 <p></p>
 
-<img src="https://user-images.githubusercontent.com/101616106/210492852-f0af4068-3c0c-496e-8fc3-fa8a9e3375de.PNG">
 
 
