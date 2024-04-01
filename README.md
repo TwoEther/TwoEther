@@ -23,9 +23,12 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-
-<p></p>
+<h2 align="left">👋Awards👋</h2> 
+<p align="left">
+  한국정보보호학회 동계학술대회 한국인터넷진흥원원장상
+</p>
 
 
 
