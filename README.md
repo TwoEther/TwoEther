@@ -26,6 +26,27 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<h2 align="left">🐈‍⬛Project🐈‍⬛</h2>
+<p>개인프로젝트 : BookTravel</p>
+<ul>
+    <li>Github Link : <a href="https://github.com/TwoEther/ShoppingMall_Project">https://github.com/TwoEther/ShoppingMall_Project</a></li>
+    <li>Web Link : <a href="http://booktravel24.com">http://booktravel24.com</a></li>
+</ul>
+
+<p>팀프로젝트 : 드론기반 접근 제어시스템 구현</p>
+<ul>
+    <li>Github Link : <a href="https://github.com/TwoEther/Drone_Project">https://github.com/TwoEther/Drone_Project</a></li>
+</ul>
+
+<p>팀프로젝트 : 요리초보를 위한 요리 레시피 앱</p>
+<ul>
+    <li>Github Link : <a href="https://github.com/TwoEther/CapstonDesign">https://github.com/TwoEther/CapstonDesign</a></li>
+</ul>
+
+<h2 align="left">🎀Study🎀</h2>
+<p><strong>개인적으로 공부하는 스터디 : <a href="https://github.com/TwoEther/study">https://github.com/TwoEther/study</a></strong></p>
+
+
 <h2 align="left">🎋Awards🎋</h2> 
 <li>수상 : <strong>한국정보보호학회 동계학술대회 한국인터넷진흥원원장상</strong></li>
 <li>주최기관 : <strong>한국정보보호학회</strong></li>
@@ -37,21 +58,5 @@
 </p>
 
 
-<h2 align="left">🎀Study🎀</h2>
-<ul>
-    <li>Java
-        <ul>
-            <li><a href="https://github.com/TwoEther/JavaStudy/blob/master/markdown/Generic.md">🧤 Generic은 무슨 타입일까?</a></li>
-            <li><a href="https://github.com/TwoEther/JavaStudy/blob/master/markdown/Thread.md">🧤 Thread의 동작과 제어</a></li>
-        </ul>
-    </li><br>
-    <li>Spring 및 개인 프로젝트
-        <ul>
-            <li><a href="https://github.com/TwoEther/ShoppingMall_Project/blob/master/markdown/kakaopay.md">✨ 카카오 페이 결제 API 적용기</a></li>
-            <li><a href="https://github.com/TwoEther/ShoppingMall_Project/blob/master/markdown/redis.md">✨ Redis 이메일 인증 로직에 대해서</a></li>
-            <li><a href="https://github.com/TwoEther/ShoppingMall_Project/blob/master/markdown/security.md">✨ 회원에 대한 인증은 어떻게 구현할까?</a></li>
-        </ul>
-    </li>
-</ul>
 
 
